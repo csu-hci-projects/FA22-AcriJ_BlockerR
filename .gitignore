@@ -77,5 +77,5 @@ DerivedDataCache/*
 *UEMinidump.dmp
 *CrashContext.runtime-xml
 *Breadcrumbs_RHIThread_0.txt
-*Map_Auto*.umap
+*_Auto*
 *AutoScreenshot.png
