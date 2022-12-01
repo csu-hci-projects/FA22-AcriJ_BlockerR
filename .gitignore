@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*CrashReportClient.ini
+*.log
+*UEMinidump.dmp
+*CrashContext.runtime-xml
+*Breadcrumbs_RHIThread_0.txt
+*_Auto*
+*AutoScreenshot.png
+*AutogenShaderHeaders.ush
+*CachedAssetRegistry.bin
