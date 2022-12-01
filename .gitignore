@@ -74,3 +74,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *CrashReportClient.ini
 *.log
+*UEMinidump.dmp
+*CrashContext.runtime-xml
+*Breadcrumbs_RHIThread_0.txt
+*Map_Auto*.umap
+*AutoScreenshot.png
